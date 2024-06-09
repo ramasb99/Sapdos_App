@@ -1,4 +1,5 @@
 import "package:flutter/material.dart";
+import "package:simple_app/Presentation/screens/Widget/doctor/doctor_panel.dart";
 // import "package:simple_app/Presentation/screens/Widget/doctor/doctor_panel.dart";
 import "package:simple_app/Presentation/screens/Widget/main_pages/Register_page.dart";
 import "package:simple_app/Presentation/screens/Widget/main_pages/login_page.dart";
@@ -157,7 +158,10 @@ class WelcomeData extends StatelessWidget {
                               padding: const EdgeInsetsDirectional.fromSTEB(
                                   0, 0, 0, 0),
                               child: GestureDetector(
-                                onTap: () {},
+                                onTap: () {
+                                  Navigator.of(context).push(MaterialPageRoute(
+                                      builder: (context) => DoctorPanel()));
+                                },
                                 child: const Text(
                                   'Proceed as a Guest',
                                   style: TextStyle(

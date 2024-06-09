@@ -1,0 +1,55 @@
+{
+  
+"doctorList" :[
+    {
+      "id":1,
+      "doctorImage": "image/person.jpg",
+      "doctorName": "Dr. Smith",
+      "specialization": "Cardiology",
+      "appointmentIcon": "",
+      "price": 420
+    },
+    {
+      "id":2, 
+        "doctorImage": "image/person1.jpg",
+        "doctorName": "Dr. Shushil",
+        "specialization": "Pediatrics",
+        "appointmentIcon": "<URL or path to appointment icon>",
+        "price": 410
+      },
+    {
+      "id":3,
+        "doctorImage": "image/person2.jpg",
+        "doctorName": "Dr. Johnson",
+        "specialization": "Pediatrics",
+        "appointmentIcon": "<URL or path to appointment icon>",
+        "price": 430
+      },
+      {
+      "id":4,
+        "doctorImage": "image/person3.jpg",
+        "doctorName": "Dr. Manoj",
+        "specialization": "Neurologies",
+        "appointmentIcon": "<URL or path to appointment icon>",
+        "price": 440
+      }
+      ,
+      {
+      "id":5,
+        "doctorImage": "image/person5.jpg",
+        "doctorName": "Dr. Jeevan",
+        "specialization": "Blood Speciality",
+        "appointmentIcon": "<URL or path to appointment icon>",
+        "price": 450
+      }
+      ,
+      {
+      "id":6,
+        "doctorImage": "image/person6.jpg",
+        "doctorName": "Dr. Shivam",
+        "specialization": "Pediatrics",
+        "appointmentIcon": "<URL or path to appointment icon>",
+        "price": 460
+      }
+]
+}

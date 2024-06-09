@@ -68,6 +68,12 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "flutter_rating_bar",
+      "rootUri": "file:///C:/Users/Cars24/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_rating_bar-4.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///C:/src/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -284,7 +290,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-06-07T05:26:19.874450Z",
+  "generated": "2024-06-09T14:35:59.145681Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }
